@@ -4,7 +4,7 @@ from sqlite3 import Cursor
 import pandas as pd
 from pandas import DataFrame
 
-db_file_path = r'C:\Users\Shougo Matsumoto\python-projects\API test\data\MM.db'
+db_file_path = r'data\MM.db'
 
 
 class DataBaseNotFoundError(Exception):
