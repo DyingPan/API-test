@@ -3,8 +3,12 @@ from sqlite3 import Cursor
 
 import pandas as pd
 from pandas import DataFrame
+# データベースファイルの相対パス
+relative_path = 'data/MM.db'
 
-db_file_path = r'data\MM.db'
+# プロジェクトのルートディレクトリからのフルパスを取得
+db_file_path = Path(__file__).parent / relative_path
+
 
 
 class DataBaseNotFoundError(Exception):
