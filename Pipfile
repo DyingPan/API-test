@@ -1,0 +1,36 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+# preinstalled
+beautifulsoup4 = "*"
+aiofiles = "*"
+aiohttp = "*"
+asyncio = "*"
+python-dotenv = "*"
+html5lib = "*"
+pandas = "*"
+numpy = "*"
+lxml = "*"
+matplotlib = "*"
+seaborn = "*"
+openpyxl = "*"
+requests = "*"
+selenium = "*"
+pypdf = "*"
+tabula-py = "*"
+pymupdf = "*"
+tqdm = "*"
+# added
+fastapi = "*"
+uvicorn = "*"
+pandasgui = "*"
+streamlit = "*"
+streamlit-jupyter = "*"
+
+[dev-packages]
+pytest = "*"
+ipykernel = "*"
+mypy = "*"

@@ -1,0 +1,61 @@
+{
+    "notebook.output.scrolling": true,
+    "notebook.output.textLineLimit": 100,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "window.zoomLevel": 1,
+    "[python]": {
+        "editor.tabSize": 4,
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        }
+    },
+    "[markdown]": {
+        "editor.unicodeHighlight.ambiguousCharacters": false,
+        "editor.unicodeHighlight.invisibleCharacters": false,
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.tabSize": 2,
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        }
+    },
+    "black-formatter.args": [
+        "--skip-string-normalization",
+        "--line-length=100"
+    ],
+    "isort.args": [
+        "--profile",
+        "black"
+    ],
+    // docstring は google
+    "autoDocstring.docstringFormat": "google",
+    "flake8.args": [
+        "--max-line-length=100",
+        "--max-complexity=10",
+        "--config=<file_path>"
+    ],
+    "mypy-type-checker.args": [
+        "--no-incremental",
+        "--ignore-missing-imports",
+        "--disallow-untyped-defs",
+        "--cache-dir=/dev/null",
+        "--install_types",
+        "--non_interactive"
+    ],
+    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.useLibraryCodeForTypes": true,
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/.venv/Lib/site-packages",
+        "${workspaceFolder}"
+    ],
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none"
+    }
+}
