@@ -1,0 +1,280 @@
+﻿skill_name,proficiency_level,場所
+sword,1,アイアンフィスト フリーヘブン
+sword,2,ブラックシャー
+dagger,1,アイアンフィスト フリーヘブン
+dagger,2,フローズンハイランド
+axe,1,アイアンフィスト 呪われし者達の沼
+axe,2,呪われし者達の沼
+spear,1,ミスト シルバーコーブ
+spear,2,呪われし者達の沼
+mace,1,フローズンハイランド 呪われし者達の沼
+mace,2,ブラックシャー
+staff,1,ニューソーピガル ミスト
+staff,2,シルバーコーブ
+bow,1,アイアンフィスト フローズンハイランド
+bow,2,クリーグスパイア
+blaster,1,ニューソーピガル 大海蛇の海域
+blaster,2,パラダイスバレー
+leather,1,アイアンフィスト ミスト
+leather,2,フローズンハイランド
+chain,1,アイアンフィスト ブートレッグベイ
+chain,2,呪われし者達の沼
+plate,1,アイアンフィスト フリーヘブン
+plate,2,フリーヘブン
+shield,1,アイアンフィスト フリーヘブン
+shield,2,ブラックシャー
+fire,1,ニューソーピガル フリーヘブン
+fire,2,ミスト
+air,1,ニューソーピガル フリーヘブン
+air,2,ミスト
+water,1,ニューソーピガル フリーヘブン
+water,2,ミスト
+earth,1,ニューソーピガル フリーヘブン
+earth,2,シルバーコーブ
+spirit,1,ニューソーピガル フリーヘブン
+spirit,2,アイアンフィスト
+mind,1,ニューソーピガル フリーヘブン
+mind,2,シルバーコーブ
+body,1,ニューソーピガル フリーヘブン
+body,2,シルバーコーブ
+light,1,シルバーコーブ クリーグスパイア
+light,2,大海蛇の海域
+dark,1,フローズンハイランド ブラックシャー
+dark,2,パラダイスバレー
+ID item,1,ニューソーピガル アイアンフィスト
+ID item,2,フリーヘブン
+merchant,1,フリーヘブン 呪われし者達の沼
+merchant,2,シルバーコーブ
+repair,1,ミスト シルバーコーブ
+repair,2,フローズンハイランド
+bodybuilding,1,ニューソーピガル アイアンフィスト
+bodybuilding,2,フリーヘブン
+meditation,1,ニューソーピガル シルバーコーブ
+meditation,2,ミスト
+perception,1,ニューソーピガル ブートレッグベイ
+perception,2,呪われし者達の沼
+alchemy,1,アイアンフィスト フリーヘブン
+alchemy,2,フローズンハイランド
+disarm trap,1,アイアンフィスト フリーヘブン
+disarm trap,2,フローズンハイランド
+ascension,1,ニューソーピガル アイアンフィスト
+ascension,2,シルバーコーブ
+sword,1,エラシア タタリア
+sword,2,デイジャ
+sword,3,ハーモンデイル
+dagger,1,トゥラリアの森 ブラカーダ砂漠
+dagger,2,ナイオン山
+dagger,3,タタリア エラシアの下水道
+axe,1,ハーモンデイル アヴリー
+axe,2,ストーンシティー
+axe,3,タタリア
+spear,1,アヴリー タタリア
+spear,2,トゥラリアの森
+spear,3,ストーンシティー
+mace,1,エラシア ストーンシティー
+mace,2,タタリア
+mace,3,デイジャ
+staff,1,ハーモンデイル ナイオン山
+staff,2,ブラカーダ砂漠
+staff,3,アヴリー
+unarmed,1,ハーモンデイル ブラカーダ砂漠
+unarmed,2,イーヴンモーン島
+unarmed,3,エラシア
+bow,1,トゥラリアの森 ブラカーダ砂漠
+bow,2,ナイオン山
+bow,3,ハーモンデイル
+blaster,1,セレステ 奈落
+blaster,2,セレステ 奈落
+blaster,3,ラムベント城 グローミング城
+leather,1,ハーモンデイル アヴリー
+leather,2,ナイオン山
+leather,3,トゥラリアの森
+chain,1,トゥラリアの森 タタリア
+chain,2,アヴリー
+chain,3,デイジャ
+plate,1,ストーンシティー タタリア
+plate,2,エラシア
+plate,3,ブラカーダ砂漠
+shield,1,エラシア
+shield,2,タタリア
+shield,3,イーヴンモーン島
+dodging,1,ハーモンデイル ブラカーダ砂漠
+dodging,2,イーヴンモーン島
+dodging,3,エラシア
+fire,1,トゥラリアの森 タタリア
+fire,2,ハーモンデイル
+fire,3,エラシア
+air,1,トゥラリアの森 タタリア
+air,2,アヴリー
+air,3,ブラカーダ砂漠
+water,1,トゥラリアの森 アヴリー
+water,2,ナイオン山
+water,3,ハーモンデイル
+earth,1,ハーモンデイル ストーンシティー
+earth,2,トゥラリアの森
+earth,3,デイジャ
+spirit,1,ハーモンデイル タタリア
+spirit,2,エラシア
+spirit,3,トゥラリアの森
+mind,1,エラシア ナイオン山
+mind,2,アヴリー
+mind,3,タタリア
+body,1,ハーモンデイル エラシア
+body,2,タタリア
+body,3,アヴリー
+light,1,ブラカーダ砂漠
+light,2,セレステ
+light,3,ラムベント城
+dark,1,デイジャ
+dark,2,奈落
+dark,3,グローミング城
+ID item,1,ハーモンデイル ナイオン山
+ID item,2,ブラカーダ砂漠
+ID item,3,トゥラリアの森
+merchant,1,トゥラリアの森 ストーンシティー
+merchant,2,イーヴンモーン島
+merchant,3,ブラカーダ砂漠
+repair,1,ハーモンデイル ストーンシティー
+repair,2,タタリア
+repair,3,エラシア
+bodybuilding,1,ストーンシティー ブラカーダ砂漠
+bodybuilding,2,デイジャ
+bodybuilding,3,ナイオン山
+meditation,1,デイジャ ナイオン山
+meditation,2,ブラカーダ砂漠
+meditation,3,アヴリー
+perception,1,ハーモンデイル アヴリー
+perception,2,トゥラリアの森
+perception,3,デイジャ
+stealing,1,ハーモンデイル ナイオン山 エラシアの下水道
+stealing,2,デイジャ
+stealing,3,タタリア
+disarm trap,1,トゥラリアの森 タタリア エラシアの下水道
+disarm trap,2,ハーモンデイル
+disarm trap,3,ナイオン山
+ID monster,1,トゥラリアの森 ナイオン山
+ID monster,2,アヴリー
+ID monster,3,ハーモンデイル
+armsmaster,1,デイジャ タタリア
+armsmaster,2,アヴリー
+armsmaster,3,巨人の国
+alchemy,1,トゥラリアの森 ブラカーダ砂漠
+alchemy,2,ナイオン山
+alchemy,3,アヴリー
+ascension,1,ブラカーダ砂漠 デイジャ
+ascension,2,ナイオン山
+ascension,3,イーヴンモーン島
+sword,1,レイベンショア
+sword,2,ギャロットゴージ
+sword,3,レグナ島
+dagger,1,アルヴァー
+dagger,2,レイベンショア
+dagger,3,レグナ島
+axe,1,ギャロットゴージ
+axe,2,レイベンショア
+axe,3,バルタザール
+spear,1,レイベンショア
+spear,2,アルヴァー
+spear,3,ダガーワンド諸島
+mace,1,レイベンショア
+mace,2,ギャロットゴージ
+mace,3,アイアンサンド砂漠
+staff,1,レイベンショア
+staff,2,アイアンサンド砂漠
+staff,3,シャドースパイア
+unarmed,1,
+unarmed,2,
+unarmed,3,
+bow,1,ダガーワンド諸島
+bow,2,レイベンショア
+bow,3,アルヴァー
+blaster,1,
+blaster,2,
+blaster,3,
+leather,1,ダガーワンド諸島
+leather,2,バルタザール
+leather,3,アイアンサンド砂漠
+chain,1,レイベンショア
+chain,2,アルヴァー
+chain,3,レグナ島
+plate,1,ダガーワンド諸島
+plate,2,レイベンショア
+plate,3,ギャロットゴージ
+shield,1,アルヴァー
+shield,2,シャドースパイア
+shield,3,ギャロットゴージ
+dodging,1,
+dodging,2,
+dodging,3,
+fire,1,レイベンショア
+fire,2,アルヴァー
+fire,3,炎の精霊界
+air,1,ダガーワンド諸島
+air,2,バルタザール
+air,3,風の精霊界
+water,1,レイベンショア
+water,2,アイアンサンド砂漠
+water,3,水の精霊界
+earth,1,ダガーワンド諸島
+earth,2,アルヴァー
+earth,3,地の精霊界
+spirit,1,レイベンショア
+spirit,2,ギャロットゴージ
+spirit,3,マーマーウッズ
+mind,1,アルヴァー
+mind,2,バルタザール
+mind,3,マーマーウッズ
+body,1,ダガーワンド諸島
+body,2,ギャロットゴージ
+body,3,マーマーウッズ
+light,1,レイベンショア
+light,2,マーマーウッズ
+light,3,レグナ島
+dark,1,アルヴァー
+dark,2,シャドースパイア
+dark,3,レグナ島
+vampire,1,シャドースパイア
+vampire,2,シャドースパイア
+vampire,3,シャドースパイア
+dark elf,1,アルヴァー
+dark elf,2,レイベンショア
+dark elf,3,アルヴァー
+dragon,1,ドラゴンの洞窟
+dragon,2,ドラゴンの洞窟
+dragon,3,ドラゴンの洞窟
+ID item,1,アルヴァー
+ID item,2,ダガーワンド諸島
+ID item,3,シャドースパイア
+merchant,1,ダガーワンド諸島
+merchant,2,アルヴァー
+merchant,3,レイベンショア
+repair,1,レイベンショア
+repair,2,ギャロットゴージ
+repair,3,マーマーウッズ
+bodybuilding,1,ダガーワンド諸島
+bodybuilding,2,ギャロットゴージ
+bodybuilding,3,アイアンサンド砂漠
+meditation,1,レイベンショア
+meditation,2,アルヴァー
+meditation,3,シャドースパイア
+perception,1,アルヴァー
+perception,2,シャドースパイア
+perception,3,バルタザール
+regeneration,1,アイアンサンド砂漠
+regeneration,2,マーマーウッズ
+regeneration,3,ダガーワンド諸島
+disarm trap,1,ダガーワンド諸島
+disarm trap,2,アルヴァー
+disarm trap,3,レグナ島
+ID monster,1,ギャロットゴージ
+ID monster,2,マーマーウッズ
+ID monster,3,レイベンショア
+armsmaster,1,ギャロットゴージ
+armsmaster,2,ダガーワンド諸島
+armsmaster,3,レグナ島
+alchemy,1,アルヴァー
+alchemy,2,マーマーウッズ
+alchemy,3,ダガーワンド諸島
+ascension,1,マーマーウッズ
+ascension,2,シャドースパイア
+ascension,3,ギャロットゴージ
