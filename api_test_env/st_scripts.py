@@ -18,7 +18,11 @@ def fetch_all_data() -> tuple[list[str]]:
 skill_data, prof_data = fetch_all_data()
 series_data: list[int] = [6, 7, 8]
 
-selected_series = st.multiselect('Choose "series" you play.', series_data)
+selected_series = st.multiselect(
+    'Choose "series" you play.', 
+    series_data, 
+    [6, 7, 8],
+)
 selected_skills = st.multiselect('Choose "skills" you want to see.', skill_data)
 selected_proficiency = st.multiselect('Choose "proficiency" you want to see.', prof_data)
 
